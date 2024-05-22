@@ -56,7 +56,7 @@ const classCounter = computed(() => {
 
 <style> 
 h1{
-    color: blue;     
+    color: greenyellow;     
 }
 .positive {
     color: green;
